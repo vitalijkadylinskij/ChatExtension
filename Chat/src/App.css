@@ -43,6 +43,12 @@
 .react-chatbot-kit-chat-input::placeholder {
     opacity: 0.3;
 }
+.react-chatbot-kit-chat-bot-message-arrow {
+    border-right: 8px solid #D96EFF!important;
+}
+.react-chatbot-kit-user-chat-message-arrow{
+    border-left: 8px solid #4ecdc4!important;
+}
 
 
 
