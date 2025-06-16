@@ -1,0 +1,51 @@
+.react-chatbot-kit-chat-header {
+    background: linear-gradient(45deg, #D96EFF, #4ecdc4) !important;
+    color: white !important;
+    font-size: 18px !important;
+    font-weight: bold !important;
+    text-align: center !important;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.2) !important;
+}
+.react-chatbot-kit-chat-message-container::-webkit-scrollbar {
+    display: none;
+}
+.react-chatbot-kit-chat-bot-message {
+    margin: 10px;
+}
+.react-chatbot-kit-chat-input-form button {
+    border: none;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-weight: 500;
+}
+.react-chatbot-kit-chat-input-form button:hover {
+    opacity: 0.5;
+}
+.react-chatbot-kit-chat-container::-webkit-scrollbar {
+    display: none;
+}
+.react-chatbot-kit-user-chat-message{
+    background: linear-gradient(45deg, #D96EFF, #4ecdc4);
+    color: white !important;
+    word-break: break-all;
+}
+.react-chatbot-kit-chat-bot-avatar {
+    margin-top: 10px;
+}
+.react-chatbot-kit-chat-bot-avatar-container {
+    width: 40px;
+    height: 40px;
+    background-color: #ffffff;
+    background-image: url("../public/ChatBotAvatar.png");
+}
+.react-chatbot-kit-chat-bot-avatar-letter{
+    display: none;
+}
+.react-chatbot-kit-chat-input::placeholder {
+    opacity: 0.3;
+}
+
+
+

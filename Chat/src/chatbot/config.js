@@ -5,18 +5,14 @@ const config = {
     botName: "AI Assistant",
     customStyles: {
         botMessageBox: {
-            backgroundColor: "#376B7E",
+            backgroundColor: "#D96EFF",
         },
         chatButton: {
-            backgroundColor: "#376B7E",
+            backgroundColor: "#D96EFF",
         },
     },
-    customComponents: {
-        // Можно добавить кастомные компоненты если нужно
-    },
-    state: {
-        // Здесь можно хранить состояние чата
-    },
+    customComponents: {},
+    state: {},
 }
 
 export default config
